@@ -1,6 +1,8 @@
 # DM
 Data mining TP
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hindraiss/ML2_Project/main)
+
 
 <h1><center>Simple Linear Regression</center></h1>
 
@@ -31,8 +33,5 @@ import numpy as np
 %matplotlib inline
 
 ### Downloading Data
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hindraiss/ML2_Project/main)
 
-To download the data, we will use !wget to download it from IBM Object Storage.#� �M�L�2�_�P�r�o�j�e�c�t�
-�
-�
+
